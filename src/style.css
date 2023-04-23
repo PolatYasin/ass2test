@@ -1,0 +1,16 @@
+.pokedex-container {
+    display: flex;
+  }
+  
+  .pokemon-list-container {
+    flex: 1;
+  }
+  
+  .pokemon-details-container {
+    flex: 1;
+    padding: 0 20px;
+  }
+  
+  .selected {
+    background-color: lightgray;
+  }
